@@ -1,0 +1,15 @@
+{
+  "MonitoredApplications": [
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Edge",
+    "Google Chrome",
+    "Microsoft Defender"
+  ],
+  "MaxEvents": 10,
+  "EventLevels": [
+    "Critical",
+    "Error",
+    "Warning"
+  ]
+}
